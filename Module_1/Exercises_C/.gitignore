@@ -8,3 +8,4 @@ main
 # Arquivos e diretórios comuns em Python
 *.pyc
 venv/
+.idea/
