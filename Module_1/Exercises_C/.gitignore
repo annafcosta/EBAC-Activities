@@ -1,5 +1,10 @@
+# Arquivos e diretórios comuns em C
 *.exe
 *.o
 cmake-build-debug
 main
 .idea
+
+# Arquivos e diretórios comuns em Python
+*.pyc
+venv/
