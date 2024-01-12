@@ -1,0 +1,8 @@
+
+*.exe
+*.o
+cmake-build-debug
+main
+.idea/
+*.pyc
+venv/
